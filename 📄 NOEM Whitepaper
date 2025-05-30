@@ -1,0 +1,25 @@
+# 📄 NOEM Whitepaper 
+
+## Section 3: Blockchain-Based Tokenization
+
+The NOEM ecosystem introduces blockchain-based tokenization to democratize access to real estate and property-backed assets.
+
+Tokenization is the process of turning real assets into digital tokens on a blockchain. NOEM leverages the Bahamut chain to tokenize physical real estate and property ownership, using ERC-721 and ERC-1155 standards.
+
+**Key Benefits**:
+- Liquidity of physical assets
+- Transparent and traceable ownership
+- Programmable asset management via smart contracts
+- Support for fractional investments
+
+[Detailed Tokenization Process](../tokenization.md)
+
+## Example Use Case
+
+A user uploads property documents and undergoes KYC. Upon verification, the system mints an NFT representing the property with metadata stored on IPFS. The NFT can be transferred, fractioned, or used as collateral in NOEM’s DeFi layer.
+
+Smart contract and compliance are handled transparently through the NOEM platform.
+
+---
+
+*This whitepaper is under Armenian jurisdiction and complies with local property tokenization laws.*
