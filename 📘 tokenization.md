@@ -18,14 +18,14 @@ Tokenization is the process of converting rights to an asset into a digital toke
 - **Real Estate**: Residential, commercial, industrial.
 - **Property Management Rights**: Tokenizing utility access, maintenance rights.
 - **Digital Certificates**: Titles, deeds, energy performance ratings.
+- ***Investment***: Construction and building project token shares.
 
 ---
 
-## 🧱 Token Standards
+## 🧱 Token Standards used in project
 | Standard | Description | Use Case |
 |----------|-------------|----------|
 | ERC-721 | Non-fungible token (NFT) | Unique property token |
-| ERC-1155 | Multi-token (fungible + NFT) | Hybrid use cases |
 | ERC-20 | Fungible token | Fractional property shares |
 
 ---
