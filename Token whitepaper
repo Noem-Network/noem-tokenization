@@ -1,0 +1,460 @@
+1
+N.O.E.M Whitepaper 
+Version 1.0 | May 2025
+Noem.mov 
+2
+TABLE OF CONTENTS
+▪ Introduction......................................................................................2
+▪ Product/Service ................................................................................3
+▪ Market Opportunity..........................................................................4
+▪ N.O.E.M Ecosystem Overview ........................................................5
+1. AI-Powered Blockchain Explorer.......................................
+2. NFT Marketplace for tokenized properties ......................6
+3. On-Chain Risk Management ............................................7
+4. DeFi Landing & Borrowing .............................................8
+5. Property Management Tool ..............................................9
+▪ N.O.E.M Token ..............................................................................10
+A. Token Sale Phrase Road Map (SPRM)............................11
+B. Token Allocation ............................................................13
+C. Token Lifecycle summary...............................................15
+1. Token Generation & Distribution..........................16
+2. Token Usage Paths................................................17
+3. Burning Mechanism..............................................19
+4. Staking Mechanism...............................................20
+5. Treasury Control & Governance ...............................
+▪ Technical Architecture....................................................................21
+▪ Legal Consideration........................................................................23
+▪ Roadmap.........................................................................................24
+▪ Conclusion......................................................................................25
+By Khajieh Manbourian
+3
+Introduction 
+The real estate sector has long been characterized by centralization, high entry 
+barriers, low liquidity, and a lack of transparency. Traditional property transactions 
+involve layers of intermediaries, time-consuming paperwork, and jurisdictional 
+complexities that deter both individual and institutional investors. Access to 
+accurate, real-time property data is limited, while cross-border investments are 
+constrained by regulatory and operational hurdles. 
+Moreover, property ownership and verification systems are fragmented and 
+vulnerable to fraud or misrepresentation. Liquidity remains a major limitation, as 
+real estate assets are not easily divisible or tradable on secondary markets. As a 
+result, both property owners and prospective investors face a rigid and outdated 
+financial infrastructure. 
+NOEM (New Opportunity Estate Management) is built to transform this reality. It 
+offers a decentralized, trustless, and automated ecosystem where physical 
+properties are tokenized into digital assets on the blockchain. These 
+propertybacked NFTs represent fractional ownership, enabling seamless 
+investment, transfer, and monetization of real estate across borders. 
+Using cutting-edge AI models, NOEM introduces intelligent property risk analysis, 
+empowering users with actionable insights into property valuation, legal exposure, 
+and environmental risk. These risk scores directly influence smart contract-driven 
+lending, staking, and insurance protocols, creating a truly data-driven and fair 
+financial system. 
+By integrating blockchain transparency with AI-powered decision-making and 
+decentralized finance tools, NOEM delivers a next-generation real estate 
+infrastructure that is inclusive, secure, and globally accessible — unlocking new 
+opportunities for investors, developers, and homeowners alike. 
+4
+Market Opportunity 
+The global real estate market is one of the largest asset classes in the world, valued 
+at over $300 trillion. Despite its vast size and importance, the industry remains 
+structurally inefficient and technologically underdeveloped. Barriers such as high 
+capital requirements, lengthy transaction processes, opaque pricing, and limited 
+access to international markets continue to restrict broader participation. 
+Today, less than 3% of real estate assets are accessible to average investors, and 
+property liquidity remains a critical bottleneck. Cross-border real estate investment 
+is often restricted by legal complexity, inconsistent data, and lack of infrastructure 
+that supports secure and fractional ownership. 
+NOEM addresses this massive opportunity by unlocking the potential of property 
+tokenization. Through blockchain-based digital assets, physical properties can be 
+turn into tradable tokens, enabling fractional ownership, global access, and realtime liquidity. Investors around the world can participate in real estate markets 
+without geographic or regulatory limitations, using their EVM-compatible wallets. 
+In parallel, NOEM introduces AI-driven risk modeling and transparent on-chain 
+data to build trust and intelligence into property investment. The platform 
+empowers users with access to property-backed NFTs, lending and borrowing 
+services, and AI-assisted insights — creating a new economic layer where real 
+estate assets become more fluid, programmable, and inclusive than ever before.
+5
+NOEM Ecosystem Overview 
+1. AI-POWERED BLOCKCHAIN EXPLORER 
+The NOEM ecosystem introduces an advanced AI-powered blockchain explorer 
+specifically designed for property-related data and digital asset management. 
+Unlike traditional blockchain explorers that require technical knowledge and offer 
+limited context, the NOEM explorer features an intuitive interface enhanced with 
+natural language processing and real-time assistance. 
+Users can interact with the system by simply asking questions or issuing 
+commands in plain language. 
+At the heart of this experience is an integrated AI assistant that acts as a personal 
+blockchain analyst. It interprets user intent, fetches relevant on-chain data, provides 
+context-aware responses, and even guides users through complex operations such 
+as staking, wallet interactions, risk analysis requests, or transaction validation. 
+This tool dramatically lowers the barrier to entry for newcomers while providing 
+powerful insights and functionality for experienced users. It supports seamless 
+interaction with the Bahamut blockchain and offers a frictionless, user-centric 
+experience that makes blockchain navigation simple, transparent, and empowering 
+— especially for property investors, developers, and institutions. 
+6
+2. NFT MARKETPLACE FOR TOKENIZED PROPERTIES 
+The NOEM ecosystem features a dedicated NFT marketplace tailored for property 
+tokenization — enabling users to convert physical property assets into 
+blockchainbased digital tokens. This process allows individuals, businesses, and 
+institutions to represent real-world properties as verifiable NFTs (Non-Fungible 
+Tokens) on the Bahamut chain. 
+Through a simple and secure interface, users can tokenize their own properties by 
+submitting relevant documentation, undergoing on-chain KYC/AML verification, 
+and generating a smart contract that binds ownership and property data to a unique 
+NFT. Each NFT becomes a proof-of-ownership and a programmable asset, capable 
+of being traded, rented, staked, or used as collateral across the NOEM platform. 
+The marketplace supports curated NFT collections based on asset class, 
+geography, or investment type — such as: 
+● Residential estates 
+● Commercial buildings 
+● Investment properties 
+● Land parcels 
+● Co-owned developments or fractional offerings 
+By organizing listings into intuitive categories, NOEM simplifies navigation and 
+boosts discoverability for investors and property managers alike. 
+This innovative approach turns traditional real estate into liquid, globally accessible, 
+and divisible digital assets, removing historic barriers like high capital 
+requirements, legal bottlenecks, and jurisdictional fragmentation. NOEM’s NFT 
+marketplace creates a new digital economy where property ownership and 
+investment are reimagined for the decentralized era. 
+7
+3. ON-CHAIN RISK MANAGEMENT 
+NOEM introduces a next-generation on-chain risk management system that 
+enhances both security and user experience across the real estate and DeFi 
+ecosystem. At its core is a user-friendly, blockchain-native KYC/AML 
+verification process designed to uphold compliance standards while preserving 
+user privacy and control. 
+Through a seamless, decentralized flow, users can verify their identity directly via 
+their EVM-compatible wallets, without relying on centralized intermediaries. The 
+verification process is fully encrypted and secured on-chain, ensuring that sensitive 
+identity data is tamper-proof, transparent, and protected from unauthorized access 
+or misuse. 
+This architecture eliminates the need for off-chain storage or third-party data 
+custodians, greatly reducing the risks of data leakage, impersonation, or fraud. 
+Once verified, a user’s identity status can be cryptographically proven across the 
+NOEM ecosystem without exposing underlying personal data — enabling 
+frictionless interaction with DeFi services, property listings, and legal agreements. 
+Additionally, NOEM uses AI to analyze property-related data (e.g., legal clarity, 
+location, environmental factors, ownership history) and generate dynamic risk 
+scores that are embedded into smart contracts. These scores influence 
+decisionmaking in lending, staking, and insurance modules, allowing for riskadjusted financial behavior on-chain. 
+This robust on-chain risk framework lays the foundation for trustless, secure, and 
+intelligent property transactions, while maintaining compliance with evolving 
+regulatory expectations globally and within the jurisdiction of Armenia. 
+8
+4. DEFI LENDING & BORROWING 
+NOEM’s DeFi Lending & Borrowing module introduces a secure, transparent, 
+and AI-enhanced financial layer for tokenized real estate assets. It allows property 
+owners to unlock liquidity by using their tokenized assets — such as 
+propertybacked NFTs — as collateral, while enabling lenders to earn yield based 
+on transparent, risk-adjusted returns. 
+Borrowers can seamlessly lock their verified property NFTs in smart contracts to 
+take out loans in stablecoins or other supported tokens. These loans are governed 
+by pre-set terms automatically enforced by blockchain logic, removing the need for 
+traditional financial intermediaries. 
+A defining feature of NOEM’s DeFi framework is its AI-driven risk scoring 
+engine. Before issuing loans, the system evaluates the underlying property’s risk 
+profile based on factors like: 
+● Location and market volatility 
+● Ownership history and legal clarity 
+● Environmental or structural risk 
+● Real-time valuation and liquidity metrics 
+Each property receives a dynamic risk score, which directly influences the 
+interest rate, collateral ratio, and insurance requirements. Lenders, in turn, 
+benefit from an intelligent underwriting system that protects their capital and aligns 
+rewards with risk exposure. 
+This model ensures a self-regulating, trustless lending ecosystem where capital 
+flows efficiently, and property value is utilized without forced sales or complex 
+refinancing. Combined with NOEM’s on-chain identity verification, the DeFi 
+platform becomes a cornerstone of secure, inclusive, and decentralized real estate 
+finance. 
+9
+5. PROPERTY MANAGEMENT TOOL 
+The NOEM ecosystem provides a comprehensive Property Management Tool
+built on blockchain, designed to simplify and automate the ongoing management 
+of real estate assets. This suite of decentralized applications enables property 
+owners, investors, and managers to handle critical operational tasks on-chain with 
+full transparency, auditability, and efficiency. 
+Key features include: 
+● Rent Tracking & Payments
+Smart contracts automate rental agreements, due dates, and payments. 
+Tenants can pay directly in crypto, with transactions instantly recorded 
+onchain, and landlords receive verifiable payment histories. 
+● Repair & Maintenance Scheduling
+Property owners and tenants can log service requests, assign tasks to 
+vendors, and confirm completion — all tracked securely on the blockchain 
+for future reference and accountability. 
+● Tax Documentation
+Income and expense data is automatically compiled into tax-ready reports, 
+streamlining end-of-year compliance and financial transparency. This data is 
+cryptographically secured and time-stamped to eliminate fraud. 
+● Insurance Integration
+Users can connect with on-chain insurance providers and automate claims, 
+renewals, and premium payments based on the property’s verified condition 
+and risk profile. 
+● Compliance Reporting
+Smart contracts help enforce regulatory requirements such as lease terms, 
+local compliance checklists, and utility performance — particularly useful in 
+multi-unit or jurisdictional real estate operations.NOEM redefines how real 
+estate is managed — making it borderless, frictionless, and future-ready. 
+10
+NOEM Token (Symbol: NOEM) 
+Total Supply: 500,000,000 NOEM Token Type: BHRC-20 
+Deployed on the Bahamut blockchain. 
+Utility: 
+● Pay for risk analysis reports 
+● Investment return rewards
+● Transaction and service fees across the platform 
+● Community incentives and referral rewards 
+● Property management services payment 
+● AI driven assistant fee 
+Minting: 
+● All tokens will be minted at deployment (fixed supply) 
+Burning: 
+● A portion of NOEM used for premium services (e.g., advanced risk analysis) 
+will be burned automatically 
+11
+NOEM TOKEN SALE PHASES ROADMAP 
+ Phase 1: Presale 
+● Start Date: July 1, 2025 
+● Duration: 3 months (July 1 – September 30, 2025) 
+● Allocated Supply: 8% (40,000,000 NOEM) 
+● Participants: Early supporters, strategic partners, community backers 
+● Lockup: 270 days 
+● Vesting: 10% unlocked monthly after lockup 
+● Notes: Lowest price point for trusted network, KYC required 
+Phase 2: Private Sale 
+● Start Date: October 15, 2025 
+● Duration: 1.5 months (October 15 – November 30, 2025) 
+● Allocated Supply: 12% (60,000,000 NOEM) 
+● Participants: Vetted individual and institutional investors 
+● Lockup: 12 months 
+● Vesting: 10% unlocked monthly after lockup 
+● Notes: Mid-tier price, ideal for raising bulk liquidity
+12
+Phase 3: Public Sale (Initial Exchange Offering - IEO) 
+● Start Date: January 15, 2026 
+● Duration: 3–5 days 
+● Allocated Supply: 15% (75,000,000 NOEM) 
+● Participants: Global public users on centralized exchange (IEO) 
+● Unlock: 100% unlocked and tradable at Token Generation Event (TGE)
+● Notes: Public users receive full tokens immediately for trading, use, and 
+staking. No vesting applied to this phase to support open liquidity and broad 
+adoption.
+Token Generation Event (TGE) 
+● Date: January 15, 2026 (with Public Sale launch) 
+● Listing: Initial DEX and/or CEX listing for liquidity 
+ 
+13
+Token Allocation 
+Category Allocation 
+(%)
+Amount 
+(NOEM) Vesting Details
+Public Sale 15% 75,000,000 100% unlocked at TGE, and tradable at Token
+generatıon(TGE)
+Private Sale 12% 60,000,000 12-month lockup, 10% monthly vesting thereafter
+Presale 8% 40,000,000 270-day lockup, then 10% unlocked monthly
+Team & Founders 15% 75,000,000 24-month lockup, 10% monthly vesting thereafter
+Advisors 3% 15,000,000 12-month lockup, then 10% monthly vesting
+Ecosystem Growth 20% 100,000,000 Released as needed for partnerships, integrations, grants 
+Community 
+Rewards 10% 50,000,000 Distributed via staking, airdrops, and incentives (vesting 
+varies by campaign)
+Staking & 
+Liquidity 10% 50,000,000 Used for DEX/CEX liquidity, farming rewards, partially 
+locked
+Reserve 7% 35,000,000 Held by treasury, unlocked after 12 months for future use
+14
+15
+Token Lifecycle Summary
+User Buys NOEM → Uses it on Platform:
+→ Mint NFT → Fee to Treasury / Burn
+→ Access AI → Fee Burned + Saved
+→ Risk Score → Part Burned
+→ Stake → Temporarily Locked
+→ Buy/Sell → Fees → Treasury
+↘ Some Tokens Burned
+↘ Some Held in Treasury
+↘ Some Rewarded to Stakers
+16
+ 
+1. Token Generation & Distribution
+At the Token Generation Event (TGE), 500,000,000 NOEM tokens are minted (fixed supply, no future 
+minting). These tokens are distributed to the following key areas:
+Category Purpose
+Public/Private Sale Raise initial capital & grow community
+Ecosystem Growth Fund development, integrations, liquidity
+Treasury Reserve For grants, rewards, protocol incentives
+Community & Advisors Long-term network development
+Staking Pool Reward users for locking tokens in the ecosystem
+ 
+17
+2. Token Usage Paths
+A. Tokenization of Real-World Assets (NFT Minting)
+ Users tokenize real estate, land, or physical investments by minting NFTs.
+ Fees: Paid in NOEM token.
+ Destination: Sent to treasury, partially burned.
+B. Buy/Sell Property NFTs
+ Marketplace allows users to list and buy tokenized assets (NFTs).
+ Fees: Paid in NOEM by buyers or sellers.
+ Destination:
+o Protocol Fee → Treasury
+o Creator Royalty → NFT owner
+o Gas Fees → Bahamut network
+C. AI Assistant Services
+ AI assistant answers questions, analyzes investment opportunities, manages tokens.
+ Fee Types:
+o Basic queries: Free or minimal NOEM fee
+o Advanced analysis (e.g. legal risk, rental ROI): 10–50 NOEM per call
+ Destination:
+o Free-tier = no fee
+o Premium tier = partially burned, remainder to treasury
+18
+D. Property Risk Scoring
+ AI evaluates each property NFT using real-world data: location risk, legal history, environmental risk.
+ Use Case: Required before using property NFT as lending collateral.
+ Fees: Fixed NOEM fee per scoring request.
+ Token Path: Sent to protocol → partially burned → rest to risk module fund
+ Property Risk Analysis Framework 
+AI models assess property value, location volatility, legal disputes, and 
+environmental factors to generate a dynamic risk score. These scores feed into 
+DeFi lending and insurance decisions. 
+E. Property Management Tools
+ Includes: rent tracking, taxes, repairs, legal docs, insurance
+ Fees: Monthly or annual usage fees in NOEM
+ Destination: Treasury (used for operating or reward redistribution)
+19
+3. Burning Mechanism — How and When It Happens
+Burning reduces token supply permanently. This helps maintain long-term token value and balances demand.
+What gets burned:
+Source Burn 
+Ratio Notes
+AI Risk Scoring 20–50% Scaled by complexity
+Property NFT 
+Minting 10–25% Higher for commercial real 
+estate
+DeFi Protocol Use 
+Fees 10–15% Certain loan origination or 
+insurance
+How it's burned:
+ The smart contract sends a percentage of the NOEM fee to the zero address (0x00...)
+ These tokens cannot be recovered and are permanently removed from circulation
+Burning = deflation + value reinforcement over time
+20
+4. Staking Mechanism 
+Users Stake NOEM in the Ecosystem
+ Stake NOEM to gain rewards from protocol fees
+ Use-case-specific staking: real estate pools, insurance underwriting, validator support
+Example: Property Investment Staking
+ NOEM holders stake tokens in vetted real estate projects
+ Receive passive income from project 
+ Staking contracts managed by Platform 
+Rewards come from:
+ Platform fees (transactions)
+ Real-world rental profits (if integrated)
+ A portion of treasury funds
+5. Treasury Control & Governance
+Treasury receives:
+ Platform usage fees (minting, AI, risk, sales)
+ Unused ecosystem funds
+ Returns from staking
+Treasury can:
+ Fund grants and growth incentives
+ Recycle tokens to liquidity pools
+ Burn surplus tokens to reduce supply
+ Be governed by staked NOEM holders
+21
+Technical Architecture 
+NOEM is built on a modular and scalable architecture that integrates blockchain
+technology, AI models, and decentralized storage to provide a seamless, secure, 
+and intelligent ecosystem for real estate tokenization and management. Each 
+component is optimized for trustlessness, efficiency, and user experience. 
+• Smart Contracts 
+All key operations — including token minting, NFT issuance, staking, lending, 
+identity verification, and marketplace transactions — are executed through 
+Solidity-based smart contracts. These contracts are audited prior to 
+deployment to ensure security, transparency, and resistance to common exploits. 
+Contract logic is designed to be modular, allowing for upgrades as the protocol 
+evolves. 
+• AI Models 
+NOEM integrates advanced AI models trained on global property datasets, risk 
+profiles, and economic indicators. These models process structured and 
+unstructured data — including satellite imagery, legal documentation, and 
+market trends — to deliver risk assessments, property valuations, and investor 
+insights. The AI layer is tightly coupled with smart contracts to feed real-time 
+decision data into lending, staking, and insurance protocols. 
+• Storage Infrastructure 
+The platform uses IPFS (InterPlanetary File System) for decentralized, 
+immutable storage of off-chain documents and metadata, such as property deeds, 
+22
+verification files, images, and inspection reports. All transactional and financial 
+data is recorded on-chain via the Bahamut blockchain, ensuring full auditability 
+and permanence without compromising user privacy. 
+• Frontend & Wallet Integration 
+The NOEM frontend is developed with a modern and responsive stack that 
+integrates directly with Thirdweb wallet infrastructure. This allows users to 
+access the platform through a wide range of EVM-compatible wallets (e.g., 
+MetaMask, WalletConnect) and perform actions like minting NFTs, submitting 
+verification, or participating in DeFi pools — all through a seamless and intuitive 
+interface. 
+This architecture ensures that NOEM is not only technologically robust, but also 
+user-centric and adaptable — empowering users across all experience levels to 
+participate confidently in the tokenized real estate ecosystem. 
+ 
+ 
+23
+Legal Considerations 
+The NOEM token (symbol: NOEM) is designed and structured as a utility token
+that powers access to services and functionalities within the NOEM ecosystem. It 
+is not intended to function as a security, and based on preliminary legal 
+assessments, it does not fall under the classification of a security under 
+Armenian law. 
+The token is used to pay for services such as AI-based property risk assessments, 
+property management tools, NFT minting fees, and platform-level governance. It is 
+not offered as a financial investment, and ownership of NOEM tokens does not 
+entitle holders to any profit-sharing, dividends, or ownership rights in the NOEM 
+organization or its assets. 
+All users, contributors, and participants are expected to comply with the legal 
+and regulatory requirements of their own jurisdictions, particularly in relation 
+to digital asset usage, KYC/AML compliance, taxation, and cross-border 
+transactions. NOEM provides on-chain identity verification to support legal 
+integrity while preserving user privacy. 
+The NOEM team is committed to operating with full transparency and ethical 
+standards. The project welcomes external legal and technical audits, and 
+continuously monitors international regulatory trends to ensure alignment with 
+evolving legal frameworks. Additionally, the platform maintains jurisdiction in 
+the Republic of Armenia, where blockchain innovation is actively supported. 
+This legal foundation reinforces the project's legitimacy and commitment to 
+responsible ecosystem growth. 
+24
+Roadmap 
+Q2 2025 - Token launch and explorer beta 
+Q3 2025 - NFT marketplace live; property tokenization begins, AI blockchain 
+explorer & AI assistant 
+Q4 2025 - DeFi module; risk model integration 
+Q1 2026 - Global partner integrations 
+25
+Conclusion 
+NOEM is redefining the future of estate management by merging blockchain 
+technology, artificial intelligence, and decentralized finance into a unified 
+platform built for transparency, accessibility, and innovation. 
+Where traditional real estate is centralized, illiquid, and exclusionary, NOEM 
+provides a decentralized, data-driven, and user-empowered alternative. From 
+tokenizing physical properties to generating AI-based risk scores and enabling 
+onchain lending, staking, and insurance, the NOEM ecosystem transforms how 
+property is owned, managed, and invested in. 
+With the launch of the NOEM token, real estate becomes: 
+● Programmable through smart contracts 
+● Liquid through tokenization and DeFi 
+● Inclusive by opening up access to global users and investors 
+NOEM does not just improve real estate finance — it reshapes it, creating new 
+opportunities for property owners, developers, institutions, and everyday users 
+around the world. By making real estate borderless, intelligent, and transparent, 
+NOEM is pioneering the future of digital property. 
+Contact
+Website: Noem.mov 
+Email: contact@noem.mov 
+Jurisdiction: Republic of Armenia 
